@@ -1,4 +1,5 @@
 # Synthetic GAN MRI Generator
+🧬☢️💉🩺🧪🔬🧫🩻🧑‍⚕️🏥⚛️
 
 A generative adversarial network (GAN) for synthesizing brain MRI images, trained on real brain MRI scans. This project is designed to explore synthetic data generation techniques in medical imaging.
 
